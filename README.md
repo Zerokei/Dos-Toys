@@ -10,3 +10,5 @@ My Assembly Language Homework (2021.3-2021.6)
 前面两次作业主要用来锻炼语法\
 第三次作业是一个简易的计算器\
 第四次作业是推箱子程序的复原
+### 推箱子程序
+![](https://zerokei-imgurl.oss-cn-hangzhou.aliyuncs.com/img/20220507225342.png)
